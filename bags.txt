@@ -1,1 +1,2 @@
 this line for first commit.
+updating to check clone command.
